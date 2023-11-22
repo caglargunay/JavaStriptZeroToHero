@@ -13,4 +13,3 @@ for (each of arr) {
     sum2 += each    
 }
 console.log(Math.round(sum2/arr.length));
-
